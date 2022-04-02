@@ -1,0 +1,13 @@
+REQUIREMENTS
+
+-> Adrino Uno or any other Adrino board
+
+-> 3 connecting wires
+
+-> 1 adrino to usd wire(USB type - A)
+-> 1 potentiometer 
+
+Additional requirements(can skip)
+-> Knob for the potentiometer
+-> box for storing the adrino board and potentiometer
+

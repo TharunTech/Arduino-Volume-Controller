@@ -1,0 +1,30 @@
+**INSTALLATION PROCESS**
+
+Download and extract the rep from Github
+
+install pip
+install python 3
+install OS module using pip 
+install serial module using pip
+
+download NirCmd from ('https://www.nirsoft.net/utils/nircmd.html') and extract and run NirCmd.exe as administrator,
+press 'copy it to registary' in pop-up
+
+then connect adrino uno
+
+and run the adrino script from "Uno Volume Controller" file by choosing the correct port
+
+then open and change the port in the python script as per your port
+then save the script and run the ' Uno Volume controller.vbs'
+or u can run "UVC.bat" 
+which will open a cmd and change the volume u can view volume change in real time 
+
+**if ur windows is not extracting the rar file try disabling windows defender and anti virus software and try again**
+
+** To auto-run on start open Task Scheduler in ur PC and add program "Uno Volume controller.vbs" and set it to run on start**
+
+**u need to restart ur pc to check the changes made in the python file**
+
+ALL Set tym to test it
+
+Developed by -https://tharuntech.netlify.app/
